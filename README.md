@@ -1,2 +1,2 @@
-# Resuurections
+# Resurrections
 items relating to ebook
